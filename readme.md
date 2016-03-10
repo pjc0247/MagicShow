@@ -13,10 +13,10 @@ Demo
 ----
 ![ui](img/ui.gif)
 <br>
-__값 변경하기___
+__값 변경하기___<br>
 ![value](img/value.gif)
 <br>
-__액션 스위치__
+__액션 스위치__<br>
 ![switch](img/switch.gif)
 
 Supported Engine
@@ -26,3 +26,25 @@ Supported Engine
 Todo
 ----
 * Unity : 유니티는 없어도 될듯
+
+API
+----
+```json
+{
+  "TAB_NAME" : {
+  },
+  "BATTLE" : {
+  },
+  "SHOP" : {
+  }
+}
+```
+
+```cpp
+class MyGameObject : Magic::Listener {
+public:
+  virtual void onConfigurationChanged() {
+    /* impl */
+  }
+}
+```
