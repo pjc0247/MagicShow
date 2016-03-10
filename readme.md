@@ -12,10 +12,10 @@ __No server/host setup required__
 Demo
 ----
 ![ui](img/ui.gif)
-<br>
+<br><br>
 __값 변경하기___<br>
 ![value](img/value.gif)
-<br>
+<br><br>
 __액션 스위치__<br>
 ![switch](img/switch.gif)
 
