@@ -2,10 +2,13 @@ MagicShow
 ====
 ![magicman](img/magicman.png)
 <br>
-__API µğÀÚÀÎ ½ºÄÉÄ¡¿ë ·¹Æ÷, ±¸Çö, ¸±¸®Áî ¹ÌÆ÷ÇÔ__
+__API ë””ìì¸ ìŠ¤ì¼€ì¹˜ìš© ë ˆí¬, êµ¬í˜„, ë¦´ë¦¬ì¦ˆ ë¯¸í¬í•¨__
 <br>
-__MagicShow__´Â °ÔÀÓ ÇÁ·ÎÅäÅ¸ÀÌÇÎ °úÁ¤¿¡ ÀÖ¾î¼­ ¿©·¯°¡Áö È¿°ú º¯°æ/Å×½ºÆ®¿ë Ä¡Æ®Å°/¾À º¯°æÀ» ½±°Ô µµ¿ÍÁİ´Ï´Ù.<br>
-Á¶±×¸¸°Å ¹¹ ÇÏ³ª ¹Ù²å´Ù°í ²¯´Ù°¡ ´Ù½Ã ºôµåÇÏÁö ¸¶¼¼¿ä.
+__MagicShow__ëŠ” ê²Œì„ í”„ë¡œí† íƒ€ì´í•‘ ê³¼ì •ì— ìˆì–´ì„œ ì—¬ëŸ¬ê°€ì§€ íš¨ê³¼ ë³€ê²½/í…ŒìŠ¤íŠ¸ìš© ì¹˜íŠ¸í‚¤/ì”¬ ë³€ê²½ì„ ì‰½ê²Œ ë„ì™€ì¤ë‹ˆë‹¤.<br>
+ì¡°ê·¸ë§Œê±° ë­ í•˜ë‚˜ ë°”ê¿¨ë‹¤ê³  ê»ë‹¤ê°€ ë‹¤ì‹œ ë¹Œë“œí•˜ì§€ ë§ˆì„¸ìš”.
+<br>
+MagicShow is a framework which enables you to change game's visual effects / turn on cheat features in realtime, without communication with developers.
+<Br>
 <br>
 __No server/host setup required__
 
@@ -13,10 +16,10 @@ Demo
 ----
 ![ui](img/ui.gif)
 <br><br>
-__°ª º¯°æÇÏ±â___<br>
+__ê°’ ë³€ê²½í•˜ê¸°___<br>
 ![value](img/value.gif)
 <br><br>
-__¾×¼Ç ½ºÀ§Ä¡__<br>
+__ì•¡ì…˜ ìŠ¤ìœ„ì¹˜__<br>
 ![switch](img/switch.gif)
 
 Supported Engine
@@ -25,7 +28,7 @@ Supported Engine
 
 Todo
 ----
-* Unity : À¯´ÏÆ¼´Â ¾ø¾îµµ µÉµí
+* Unity : ìœ ë‹ˆí‹°ëŠ” ì—†ì–´ë„ ë ë“¯
 
 API
 ----
