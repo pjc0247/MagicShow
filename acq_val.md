@@ -4,7 +4,8 @@
 ```cpp
 float scaleTo = $f(scale_factor, 1.0);
 
-runAction(ScaleTo::create(1.0, scaleTo));
+runAction(
+  ScaleTo::create(1.0, scaleTo));
 ```
 
 ```cpp
