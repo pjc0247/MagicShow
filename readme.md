@@ -51,3 +51,9 @@ public:
   }
 }
 ```
+
+```cpp
+int value = $d(config_key, default_value);
+
+int hp = $d(default_hp, 100);
+```
