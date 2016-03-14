@@ -25,6 +25,9 @@ __액션 스위치__<br>
 Supported Engine
 ----
 * __cocos2d-x__
+  * Windows
+  * iOS
+  * Android
 
 Todo
 ----
